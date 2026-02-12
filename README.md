@@ -200,11 +200,5 @@ Requirements coverage (brief)
 - Transfers: Done (intra-customer via ATM, cross-customer via account number transfers through Bank.transfer)
 - Admin interface: Done (view/create accounts, unblock customer/account, create customers)
 
-If you want, I can:
-- Add unit tests (JUnit) for key behaviors (withdrawal rules, transfers, PIN blocking).
-- Add persistence (simple file-based serialization or a tiny SQLite-backed DAO).
-- Improve input validation and add confirmations for destructive actions.
 
-
-Document end.
 
